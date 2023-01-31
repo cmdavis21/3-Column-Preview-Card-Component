@@ -30,6 +30,7 @@ html, body {
     height: 100%;
     color: var(--clr-neutral-transparent-white);
     font: var(--fw-400) var(--fs) var(--ff-lexend);
+    background-color: var(--clr-neutral-very-light-gray);
 }
 
 body {
